@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
+
+
+### Hi there, I'm Cece! 👋
 <div id="badges">
   <a href="https://www.linkedin.com/in/ceceliafowler/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
+ </div>
+ </div>
+  
+### :woman_technologist: About Me :
+- 🔭 Seeking a full stack development job. 
+- 🌱 Currently digging deeper into React.
+- 💬 Ask me about how I started my career in tech!
+- ⚡ In my free time, I contribute to OpenSource projects.
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
@@ -26,6 +31,6 @@
 </div>
   
   ### :fire: My Stats :
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecelia001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
