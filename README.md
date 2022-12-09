@@ -11,11 +11,11 @@
  </div>
  </div>
   
-### :woman_technologist: About Me :
+<!-- ### :woman_technologist: About Me :
 - 🔭 Seeking a full stack development job. 
 - 🌱 Currently digging deeper into React.
 - 💬 Ask me about how I started my career in tech!
-- ⚡ In my free time, I contribute to OpenSource projects.
+- ⚡ In my free time, I contribute to OpenSource projects. -->
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
