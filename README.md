@@ -30,9 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   </div>
 
-  /*### :fire: My Stats :
+  <!---### :fire: My Stats :
     
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]*/
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]=-->
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecelia001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
