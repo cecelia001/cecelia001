@@ -18,7 +18,7 @@
 - ⚡ In my free time, I contribute to OpenSource projects. -->
 
 <div align="center">
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools :
 </div> 
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
   </div>
 
   <div align="center">
-  <!---### :fire: My Stats :
+  <!-- ### :fire: My Stats :
   
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]=-->
   
