@@ -3,6 +3,7 @@
 
 
 ### Hi there, I'm Cece! 👋
+<br />
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ceceliafowler/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,6 +18,7 @@
 - 💬 Ask me about how I started my career in tech!
 - ⚡ In my free time, I contribute to OpenSource projects. -->
 
+<br />
 <div align="center" >
  :hammer_and_wrench: Languages and Tools :
   <div>
@@ -31,12 +33,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   </div>
 </div>
-  
+ 
+ 
+<br />
+
   <!-- ### :fire: My Stats :
   
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]=-->
   
-  <div align="center" >
+  <div id="stats" align="center" topMargin=20px >
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cecelia001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
