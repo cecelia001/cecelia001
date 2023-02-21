@@ -37,10 +37,11 @@
  
 <br />
 
+  <div align="center" >
   ### :fire: My Stats :
   
-  <div align="center" >
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]=
+  
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]
   </div>
   
   <div id="stats" align="center" topMargin=20px >
