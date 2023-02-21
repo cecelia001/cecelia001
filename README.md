@@ -37,9 +37,9 @@
  
 <br />
 
-  <!-- ### :fire: My Stats :
+  ### :fire: My Stats :
   
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]=-->
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]=
   
   <div id="stats" align="center" topMargin=20px >
   
