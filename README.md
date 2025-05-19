@@ -11,12 +11,7 @@
  
  </div>
  </div>
-  
-<!-- ### :woman_technologist: About Me :
-- 🔭 Seeking a full stack development job. 
-- 🌱 Currently digging deeper into React.
-- 💬 Ask me about how I started my career in tech!
-- ⚡ In my free time, I contribute to OpenSource projects. -->
+
 
 <br />
 <div align="center" >
@@ -37,12 +32,6 @@
  
 <br />
 
-  <div align="center" >
-   :fire: My Stats :
-  
-  
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cecelia001&theme=dark&background=000000)]
-  </div>
   
   <div id="stats" align="center" topMargin=20px >
   
